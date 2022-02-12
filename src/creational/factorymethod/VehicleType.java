@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.factorymethod;
 
 public enum VehicleType {
 	TWO, THREE, FOUR;
